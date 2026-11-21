@@ -1,5 +1,7 @@
 # cmms-sql-cookbook
 
+[![CI](https://github.com/yassine2med/cmms-sql-cookbook/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/cmms-sql-cookbook/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Six SQL queries every maintenance team ends up writing: backlog by priority, aging buckets, MTTR, PM compliance, repeat failures and technician workload. They run on a small SQLite sample database that ships with the repo, so you can read, run and change them in minutes.
 
 ![Screenshot](docs/screenshot.png)
